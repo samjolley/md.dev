@@ -44,6 +44,9 @@ Content Area
 
 .entry {
 	background: $white;
+	box-shadow: 0 3px 10px rgba(0,0,0,.23),0 3px 10px rgba(0,0,0,.16);
+	border: 0;
+	border-radius: 2px;
 	border-top: 1px solid lighten($black, 11);
 	margin-bottom: 40px;
 	padding: 40px 40px 24px;

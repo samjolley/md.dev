@@ -1175,7 +1175,7 @@ Widgets
 .utility-bar {
   background-color: rgba(96, 125, 139, 0.9);
   border-bottom: 1px solid #fafafa;
-  color: #fff;
+  color: #C5CAE9;
   font-size: 14px;
   margin: 0 auto;
   padding: 10px 0;
@@ -1184,7 +1184,7 @@ Widgets
 }
 
 .utility-bar a {
-  color: #fff;
+  color: #C5CAE9;
 }
 
 .utility-bar a:hover {
@@ -1193,7 +1193,7 @@ Widgets
 
 .utility-bar p,
 .utility-bar .widgettitle {
-  color: #fff;
+  color: #C5CAE9;
   margin: 0;
 }
 
@@ -1211,7 +1211,7 @@ Widgets
 }
 
 .home-welcome .widgettitle {
-  color: #fff;
+  color: #C5CAE9;
   text-transform: none;
 }
 @media screen and (min-width: 480px) {
@@ -1236,7 +1236,7 @@ Widgets
 /* Home Gallery
 --------------------------------------------- */
 .home-gallery {
-  background: #fff;
+  background: #C5CAE9;
   padding: 40px 0 20px;
 }
 
@@ -1279,7 +1279,7 @@ Widgets
 .call-to-action-bar {
   background: #333333;
   background: rgba(51, 51, 51, 0.8);
-  color: #fff;
+  color: #C5CAE9;
   padding: 40px 0;
   text-align: center;
 }
@@ -1345,7 +1345,7 @@ Footer Widgets
 ---------------------------------------------------------------------------------------------------- */
 .footer-widgets {
   background: #3d3d3d;
-  color: #fff;
+  color: #C5CAE9;
   padding: 40px 0;
 }
 
@@ -1372,7 +1372,7 @@ Footer Widgets
 }
 
 .footer-widgets a {
-  color: #fff;
+  color: #C5CAE9;
 }
 
 .footer-widgets a:hover {
@@ -1384,7 +1384,7 @@ Footer Widgets
 }
 
 .footer-widgets .widgettitle {
-  color: #fff;
+  color: #C5CAE9;
   font-size: 20px;
 }
 
@@ -1904,6 +1904,9 @@ Content Area
 
 .entry {
   background: #fff;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.23), 0 3px 10px rgba(0, 0, 0, 0.16);
+  border: 0;
+  border-radius: 2px;
   border-top: 1px solid #3d3d3d;
   margin-bottom: 40px;
   padding: 40px 40px 24px;

@@ -8,7 +8,7 @@ Widgets
 .utility-bar {
 	background-color: rgba($accent, 0.9);
 	border-bottom: 1px solid lighten($black, 85);
-	color: $white;
+	color: $light-primary;
 	font-size: $secondary-font-size;
 	margin: 0 auto;
 	padding: 10px 0;
@@ -17,7 +17,7 @@ Widgets
 }
 
 .utility-bar a {
-	color: $white;
+	color: $light-primary;
 }
 
 .utility-bar a:hover {
@@ -26,7 +26,7 @@ Widgets
 
 .utility-bar p,
 .utility-bar .widgettitle {
-	color: $white;
+	color: $light-primary;
 	margin: 0;
 }
 
@@ -45,7 +45,7 @@ Widgets
 }
 
 .home-welcome .widgettitle {
-	color: $white;
+	color: $light-primary;
 	text-transform: none;
 
 	@include media($smaller-screen-up) {
@@ -68,7 +68,7 @@ Widgets
 --------------------------------------------- */
 
 .home-gallery {
-	background: $white;
+	background: $light-primary;
 	padding: 40px 0 20px;
 }
 
@@ -105,7 +105,7 @@ Widgets
 .call-to-action-bar {
 	background: rgb(51, 51, 51);
 	background: rgba(51, 51, 51, 0.8);
-	color: $white;
+	color: $light-primary;
 	padding: 40px 0;
 	text-align: center;
 
@@ -174,7 +174,7 @@ Footer Widgets
 
 .footer-widgets {
 	background: lighten($black, 11);
-	color: $white;
+	color: $light-primary;
 	padding: 40px 0;
 }
 
@@ -198,7 +198,7 @@ Footer Widgets
 }
 
 .footer-widgets a {
-	color: $white;
+	color: $light-primary;
 }
 
 .footer-widgets a:hover {
@@ -210,7 +210,7 @@ Footer Widgets
 }
 
 .footer-widgets .widgettitle {
-	color: $white;
+	color: $light-primary;
 	font-size: 20px;
 }
 
