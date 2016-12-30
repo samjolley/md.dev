@@ -1,4 +1,4 @@
-# UTILITY PRO CHILD THEME
+# MD PRO CHILD THEME
 http://www.carriedils.com/utility-pro/
 
 ## REQUIREMENTS
@@ -6,16 +6,16 @@ http://www.carriedils.com/utility-pro/
 * This theme requires WordPress 4.3 or greater.
 
 ## INSTALL
-1. Upload the Utility Pro theme folder via FTP to your `wp-content/themes/` directory.
+1. Upload the MD Pro theme folder via FTP to your `wp-content/themes/` directory.
 2. Go to your WordPress admin and select Appearance.
-3. Activate the Utility Pro theme.
-4. For automatic updates, enter your license key in Genesis > Utility Pro License.
+3. Activate the MD Pro theme.
+4. For automatic updates, enter your license key in Genesis > MD Pro License.
 5. Inside your WordPress admin, go to Genesis > Theme Settings and configure them to your liking. To set up the theme like the demo, please follow the instructions at https://store.carriedils.com/support/documentation/.
 
 ## WIDGET AREAS
 ### Primary Sidebar
 This is the primary sidebar if you are using the Content/Sidebar or Sidebar/Content Site Layout option.
-### Utility Bar
+### MD Bar
 This widgetized area appears above the header. You can use this area to communicate important information to your site visitors.
 ### Header Right
 This is the widgetized area that appears at the top right of the header. If it is active then Genesis style will follow the Partial Header style otherwise it will follow the Full Image Header Style, if image header is selected.
@@ -46,7 +46,7 @@ To address accessibility issues in WordPress and the Genesis Framework, the foll
 
 ## DOCUMENTATION & SUPPORT
 
-You can find full documentation for Utility Pro at:
+You can find full documentation for MD Pro at:
 
 https://store.carriedils.com/support/documentation/
 
@@ -57,7 +57,7 @@ https://store.carriedils.com/support/
 ## PROPS
 A special thanks to [Gary Jones](http://gamajo.com), who audited this code (trust me, if any mistakes remain, they are mine alone - Gary did his best to set me straight).
 
-I’m also deeply appreciative of [Nir Rosenbaum](http://www.website-traffic.co.il/nir-rosenbaum) for teaching me about issues when building themes for Right to Left (RTL) scripts as well as testing Utility Pro with an RTL language.
+I’m also deeply appreciative of [Nir Rosenbaum](http://www.website-traffic.co.il/nir-rosenbaum) for teaching me about issues when building themes for Right to Left (RTL) scripts as well as testing MD Pro with an RTL language.
 
 I’d be terribly remiss not to thank [Rian Rietveld](http://www.rrwd.nl/) for her accessibility audit (and graciously letting me borrow much of her Genesis Accessible plugin) and to [Amanda Rush](http://customerservant.com/), who tested the theme for use with a screen reader and made adjustments to improve the experience.
 
