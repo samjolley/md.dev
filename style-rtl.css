@@ -285,7 +285,7 @@ Color Options
 Defaults
 ---------------------------------------------------------------------------------------------------- */
 body {
-  background: #fff;
+  background: #C5CAE9;
   color: #757575;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
@@ -311,12 +311,12 @@ textarea:focus,
 
 ::-moz-selection {
   background: #212121;
-  color: #fff;
+  color: #C5CAE9;
 }
 
 ::selection {
   background: #212121;
-  color: #fff;
+  color: #C5CAE9;
 }
 
 a {
@@ -433,7 +433,7 @@ img {
 }
 input,
 textarea {
-  background: #fff;
+  background: #C5CAE9;
   border: 1px solid #fafafa;
   color: #757575;
   font-size: 14px;
@@ -453,8 +453,8 @@ textarea {
 .entry-content a.button,
 input[type="submit"] {
   background: #607D8B;
-  border: 1px solid #fff;
-  color: #fff;
+  border: 1px solid #C5CAE9;
+  color: #C5CAE9;
   cursor: pointer;
   font-size: 16px;
   font-weight: 700;
@@ -470,20 +470,23 @@ input:focus[type="reset"],
 input:focus[type="submit"],
 .button:focus,
 .entry-content a.button:focus {
-  background-color: #fff;
+  background-color: #C5CAE9;
   color: #607D8B;
 }
 
 .button {
   display: inline-block;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.23), 0 10px 30px rgba(0, 0, 0, 0.19);
 }
 
 .button:hover,
 .entry-content a.button:hover,
 input:hover[type="submit"] {
-  background-color: #fff;
+  background-color: #C5CAE9;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 6px rgba(0, 0, 0, 0.12);
   border: 1px solid #607D8B;
   color: #607D8B;
+  transition: box-shadow 0.28s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 input[type="search"]::-webkit-search-cancel-button,
@@ -497,7 +500,7 @@ input[type="search"]::-webkit-search-results-button {
 
 .search-form [type="submit"] {
   background-color: transparent;
-  background: url(images/icon-search-rtl.png) no-repeat 25% 53% #fff;
+  background: url(images/icon-search-rtl.png) no-repeat 25% 53% #C5CAE9;
   border: 1px solid #fafafa;
   box-shadow: none;
   height: 53px;
@@ -567,7 +570,7 @@ th {
 }
 
 .table .table {
-  background-color: #fff;
+  background-color: #C5CAE9;
 }
 
 .table-condensed > thead > tr > th,
