@@ -1,23 +1,23 @@
 /*
-Error: Undefined variable: "$purple".
-        on line 12 of assets/scss/partials/_theme-colors.scss
-        from line 84 of assets/scss/style.scss
+Error: Undefined variable: "$blue".
+        on line 44 of assets/scss/partials/_defaults.scss
+        from line 89 of assets/scss/style.scss
 
-7: 	Tags: black, purple, green, blue, red, one-column, two-columns, fixed-width, custom-menu, full-width-template, sticky-post, theme-options, threaded-comments, rtl-language-support, translation-ready
-8: 	Template: genesis
-9: 	License: GPL-2.0+
-10: 	License URI: http://www.opensource.org/licenses/gpl-license.php
-11: 	Text Domain: md-pro
-12: *\/
-13: 
-14: /* # Table of Contents
-15: 
-16: 	- HTML5 Reset
-17: 		- Baseline Normalize
+39: 	- Widgets
+40: 		- Utility Bar
+41: 		- Home Welcome
+42: 		- Home Gallery
+43: 		- Call to Action
+44: 		- Featured Page and Featured Post
+45: 		- Footer Widgets
+46: 	- Plugins
+47: 		- Better Font Awesome
+48: 		- Genesis eNews Extended
+49: 		- Gravity Forms
 
 Backtrace:
-assets/scss/partials/_theme-colors.scss:12
-assets/scss/style.scss:84
+assets/scss/partials/_defaults.scss:44
+assets/scss/style.scss:89
 /Users/samjolley/.rvm/gems/ruby-2.3.1/gems/sass-3.4.22/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Users/samjolley/.rvm/gems/ruby-2.3.1/gems/sass-3.4.22/lib/sass/script/tree/node.rb:58:in `perform'
 /Users/samjolley/.rvm/gems/ruby-2.3.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:397:in `visit_prop'
@@ -76,4 +76,4 @@ assets/scss/style.scss:84
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$purple\".\A         on line 12 of assets/scss/partials/_theme-colors.scss\A         from line 84 of assets/scss/style.scss\A \A 7: 	Tags: black, purple, green, blue, red, one-column, two-columns, fixed-width, custom-menu, full-width-template, sticky-post, theme-options, threaded-comments, rtl-language-support, translation-ready\A 8: 	Template: genesis\A 9: 	License: GPL-2.0+\A 10: 	License URI: http://www.opensource.org/licenses/gpl-license.php\A 11: 	Text Domain: md-pro\A 12: */\A 13: \A 14: /* # Table of Contents\A 15: \A 16: 	- HTML5 Reset\A 17: 		- Baseline Normalize"; }
+  content: "Error: Undefined variable: \"$blue\".\A         on line 44 of assets/scss/partials/_defaults.scss\A         from line 89 of assets/scss/style.scss\A \A 39: 	- Widgets\A 40: 		- Utility Bar\A 41: 		- Home Welcome\A 42: 		- Home Gallery\A 43: 		- Call to Action\A 44: 		- Featured Page and Featured Post\A 45: 		- Footer Widgets\A 46: 	- Plugins\A 47: 		- Better Font Awesome\A 48: 		- Genesis eNews Extended\A 49: 		- Gravity Forms"; }

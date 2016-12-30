@@ -1,40 +1,39 @@
 /* ##
 Color Options
-If you've chosen your favorite color scheme, you can delete the others
 ---------------------------------------------------------------------------------------------------- */
 
-/* ## Purple
+/* ## primary
 --------------------------------------------- */
 
-.utility-pro-purple .home-gallery .fa,
-.utility-pro-purple a,
-.utility-pro-purple .entry-content a {
-	color: $purple;
+.utility-pro .home-gallery .fa,
+.utility-pro a,
+.utility-pro .entry-content a {
+	color: $primary;
 }
 
-.utility-pro-purple .sticky.entry {
-	border-top-color: $purple;
+.utility-pro .sticky.entry {
+	border-top-color: $primary;
 }
 
-.utility-pro-purple .call-to-action-bar .button,
-.utility-pro-purple .button,
-.utility-pro-purple .entry-content .button,
-.utility-pro-purple input[type="submit"] {
-	background: $purple;
-	border: 1px solid $white;
+.utility-pro .call-to-action-bar .button,
+.utility-pro .button,
+.utility-pro .entry-content .button,
+.utility-pro input[type="submit"] {
+	background: $primary;
+	border: 1px solid $divider;
 	color: $white;
 }
 
-.utility-pro-purple .call-to-action-bar .button:hover,
-.utility-pro-purple .button:hover,
-.utility-pro-purple .entry-content .button:hover,
-.utility-pro-purple input[type="submit"]:hover {
+.utility-pro .call-to-action-bar .button:hover,
+.utility-pro .button:hover,
+.utility-pro .entry-content .button:hover,
+.utility-pro input[type="submit"]:hover {
 	background: $white;
-	border: 1px solid $purple;
-	color: $purple;
+	border: 1px solid $divider;
+	color: $primary;
 }
 
-.utility-pro-purple .utility-bar,
-.utility-pro-purple .site-footer {
-	background-color: rgba($purple, 0.8);
+.utility-pro .utility-bar,
+.utility-pro .site-footer {
+	background-color: rgba($primary, 0.8);
 }
