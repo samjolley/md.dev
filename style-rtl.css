@@ -1,4 +1,4 @@
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$blue\".\A         on line 44 of assets/scss/partials/_defaults.scss\A         from line 89 of assets/scss/style.scss\A \A 39: 	- Widgets\A 40: 		- Utility Bar\A 41: 		- Home Welcome\A 42: 		- Home Gallery\A 43: 		- Call to Action\A 44: 		- Featured Page and Featured Post\A 45: 		- Footer Widgets\A 46: 	- Plugins\A 47: 		- Better Font Awesome\A 48: 		- Genesis eNews Extended\A 49: 		- Gravity Forms"; }
+  content: "Error: Undefined variable: \"$blue\".\A         on line 9 of assets/scss/partials/_widgets.scss\A         from line 104 of assets/scss/style.scss\A \A 4: 	Author: Sam Jolley\A 5: 	Author URI: http://www.samjolley.com/\A 6: 	Version: 1.3.1\A 7: 	Tags: black, purple, green, blue, red, one-column, two-columns, fixed-width, custom-menu, full-width-template, sticky-post, theme-options, threaded-comments, rtl-language-support, translation-ready\A 8: 	Template: genesis\A 9: 	License: GPL-2.0+\A 10: 	License URI: http://www.opensource.org/licenses/gpl-license.php\A 11: 	Text Domain: md-pro\A 12: */\A 13: \A 14: /* # Table of Contents"; }
